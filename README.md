@@ -35,5 +35,5 @@ This project uses machine learning techniques to detect Parkinson's Disease base
 
 ---
 
-## please find the attached file for the source code in main file
+## please find the attached file for the source code in  the above file
 
